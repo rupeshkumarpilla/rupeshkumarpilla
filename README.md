@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Rupesh Kumar Pilla
+# 🙏🏼Hi there! I'm Rupesh Kumar Pilla
 
 🎓 MBA (Business Analytics) @ University of Petroleum and Energy Studies (UPES)  
 💼 Business & Data Analyst | KPMG Certified | SQL • Power BI • Python  

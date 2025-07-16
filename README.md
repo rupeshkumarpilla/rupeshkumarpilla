@@ -35,7 +35,7 @@ Currently pursuing my MBA in Business Analytics, I've completed hands-on project
 - Generated risk and return predictions with 85% accuracy
 - Tools: Python, Excel
 
-### 📋 [Business Reporting Automation – Outlook Publishing]
+### 📋 Business Reporting Automation – Outlook Publishing
 - Automated repetitive reports and improved data accuracy by 15%
 - Built business performance dashboards with actionable KPIs
 - Tools: SQL, Power BI

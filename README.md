@@ -10,7 +10,7 @@ India |  rupeshkumarpilla@gmail.com |  [LinkedIn](https://linkedin.com/in/rupesh
 
 I’m a passionate Business Analytics professional who believes that **data tells stories**—and I love decoding those stories into **real-world business insights**. With a background in business management and a solid foundation in analytics tools like SQL, Power BI, and Python, I bridge the gap between business decisions and data logic.
 
-Currently pursuing my MBA in Business Analytics, I've completed hands-on projects with **KPMG** and **Hindustan Unilever**, where I focused on predictive modeling, customer retention, and financial forecasting.
+MBA in Business Analytics, I've completed hands-on projects with **KPMG** and **Hindustan Unilever**, where I focused on predictive modeling, customer retention, and financial forecasting.
 
 ---
 
